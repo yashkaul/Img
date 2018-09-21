@@ -13,7 +13,7 @@ Instructions:
 3) Follow the steps 1), 2) above
 4) cd to the downloaded git path souledstore/souled store/ 
 5) Run for python 2.x: python -m SimpleHTTPServer 8080        Run for python 3.x: python -m http.server 8080
-6) launch http://localhost:6666/SouledStoreHomepage.html from your browser
+6) launch http://localhost:8080/SouledStoreHomepage.html from your browser
 
 
 

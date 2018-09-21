@@ -1,8 +1,5 @@
 # souledstore
-Technology Stack
-Javascript
-HTML
-CSS/ CSS animations
+
 
 Instructions:
 

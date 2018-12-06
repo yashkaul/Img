@@ -3,7 +3,8 @@
 
 Instructions:
 
-1) If the PC doesn't have git download git from http://git-scm.com/downloads
+1) You can either download the zip by clicking Clone or Download and then Download zip, extract the zip and go to step 3
+2) To download with git, download git from http://git-scm.com/downloads and run the below command.
 2) Run: **git clone https://github.com/yashkaul/Img.git**
 3) navigate to img/img/ on your PC
 4) Doubleclick on ImaginationStudios.html to launch the webpage *

@@ -5,7 +5,7 @@ Instructions:
 
 1) If the PC doesn't have git download git from http://git-scm.com/downloads
 2) Run: **git clone https://github.com/yashkaul/Img.git**
-3) navigate to souledstore/souled store/ on your PC
+3) navigate to img/img/ on your PC
 4) Doubleclick on ImaginationStudios.html to launch the webpage *
 
 * If your system has python you can launch a simple webserver on port 8080 and host the above webpage using the below steps

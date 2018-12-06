@@ -1,4 +1,4 @@
-# souledstore
+# Imagination Studios
 
 
 Instructions:
